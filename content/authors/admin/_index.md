@@ -11,8 +11,9 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: University of Washington
+  url: "https://www.washington.edu/"
+- name: UW Terrain Analysis and Cryosphere Observation Lab
   url: ""
-
 # Short bio (displayed in user profile at end of posts)
 bio:
 
