@@ -8,9 +8,9 @@
   url = "#about"
   weight = 10
 
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
+[[main]]
+  name = "Guide: Applying to STEM PhD Programs from Undergrad"
+  url = "https://docs.google.com/document/d/1edbNoCX0frs4gl2jCYWNsBhVEcC049xTE-4f-bouJzw/edit?usp=sharing"
 #  weight = 20
 
 #[[main]]

@@ -24,7 +24,7 @@ education:
   courses:
   - course: BS in Computational Engineering
     institution: University of Texas
-    year: 2015 - 2019
+    year: 2015 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
