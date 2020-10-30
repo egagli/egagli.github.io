@@ -18,13 +18,13 @@ organizations:
 bio:
 
 interests:
-- Glaciology
+- Cryosphere
 - Remote Sensing
 
 education:
   courses:
   - course: B.S. in Computational Engineering
-    institution: University of Texas
+    institution: The University of Texas at Austin
     year: 2020
 
 # Social/Academic Networking
@@ -41,6 +41,10 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/eric-gagliano
+
 - icon: github
   icon_pack: fab
   link: https://github.com/egagli
@@ -63,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Eric Gagliano is first year PhD student at the University of Washington and is a member of the Terrain Analysis and Cryosphere Observation (TACO) Lab. Eric is interested in using InSAR to better understand the cryosphere. In his free time, he likes to volunteer, play dodgeball and gagaball, hang out with friends, and eat peanut butter chocolate chip cookies.
+Eric Gagliano is a first year PhD student at the University of Washington and is a member of the Terrain Analysis and Cryosphere Observation (TACO) Lab. Eric is interested in using Interferometric Synthetic Aperture Radar (InSAR) and other remote sensing tools to better understand the cryosphere. In his free time, he likes to volunteer, play dodgeball and gaga ball, hang out with friends, and eat peanut butter chocolate chip cookies. He just made this website and has no clue what he's doing :)
