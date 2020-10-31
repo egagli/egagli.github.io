@@ -11,7 +11,7 @@
 [[main]]
   name = "Guide: Applying to STEM PhD Programs from Undergrad"
   url = "https://docs.google.com/document/d/1edbNoCX0frs4gl2jCYWNsBhVEcC049xTE-4f-bouJzw/edit?usp=sharing"
-#  weight = 20
+  weight = 30
 
 #[[main]]
 #  name = "Projects"
@@ -33,4 +33,9 @@
 [[main]]
   name = "CV"
   url = "files/cv.pdf"
-  weight = 70
+  weight = 20
+
+  [[main]]
+    name = "Cats"
+    url = "#cats"
+    weight = 40
