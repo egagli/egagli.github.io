@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 100 # Order that this section will appear.
 
 title = "Cats"
-subtitle = "Here are some pictures of my cats, Garfield and Little Cat."
+subtitle = "Here are some pictures of my cats back home, Garfield and Little Cat."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
