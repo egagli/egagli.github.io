@@ -52,8 +52,11 @@ subtitle = ""
 
 If you're considering applying to PhD programs from undergrad, I've written a comprehensive guide to help you navigate the entire process from start to finish!
 
-_Below is an embedded preview, but for easier navigation and better formatting, visit the google doc directly [here](https://docs.google.com/document/d/1edbNoCX0frs4gl2jCYWNsBhVEcC049xTE-4f-bouJzw/edit?usp=sharing)._
+_Below is an embedded preview that is best viewable in full screen. For easier navigation and better formatting, visit the google doc directly [here](https://docs.google.com/document/d/1edbNoCX0frs4gl2jCYWNsBhVEcC049xTE-4f-bouJzw/edit?usp=sharing)._
 
-<div style="text-align:center;">
-<iframe width=80% height=600 src="https://docs.google.com/document/d/e/2PACX-1vRP47iJaokpbkRh7oWVZct7hM071UAjd1co_cBe7-VuyrZoACd3waw4AMHJeI71ZfgPbBgZCpSvxuO7/pub?embedded=true"></iframe>
-</div>
+<!---iv style="text-align:center;">
+<iframe width=600 height=600 src="https://docs.google.com/document/d/e/2PACX-1vRP47iJaokpbkRh7oWVZct7hM071UAjd1co_cBe7-VuyrZoACd3waw4AMHJeI71ZfgPbBgZCpSvxuO7/pub?embedded=true"></iframe>
+</div>-->
+
+
+{{< gdocs  src="https://docs.google.com/document/d/e/2PACX-1vRP47iJaokpbkRh7oWVZct7hM071UAjd1co_cBe7-VuyrZoACd3waw4AMHJeI71ZfgPbBgZCpSvxuO7/pub?embedded=true" >}}
