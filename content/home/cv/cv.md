@@ -6,10 +6,10 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 100 # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "My Cats"
-subtitle = "Here are some pictures of my cats back home, Garfield and Little Cat."
+title = "My CV"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,8 +25,8 @@ subtitle = "Here are some pictures of my cats back home, Garfield and Little Cat
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "PastelGreen"
-  gradient_end = "PastelGreen"
+  #gradient_start = "DarkGreen"
+  #gradient_end = "ForestGreen"
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -50,4 +50,4 @@ subtitle = "Here are some pictures of my cats back home, Garfield and Little Cat
  css_class = ""
 +++
 
-{{< gallery album="catgallery" >}}
+For my undergraduate CV, please click {{% staticref "files/cv.pdf" "newtab" %}}here.{{% /staticref %}}

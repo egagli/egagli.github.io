@@ -6,10 +6,10 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 100 # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "My Cats"
-subtitle = "Here are some pictures of my cats back home, Garfield and Little Cat."
+title = "Guide: Applying to STEM PhD Programs from Undergrad"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,8 +25,8 @@ subtitle = "Here are some pictures of my cats back home, Garfield and Little Cat
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "PastelGreen"
-  gradient_end = "PastelGreen"
+  #gradient_start = "DarkGreen"
+  #gradient_end = "ForestGreen"
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -50,4 +50,8 @@ subtitle = "Here are some pictures of my cats back home, Garfield and Little Cat
  css_class = ""
 +++
 
-{{< gallery album="catgallery" >}}
+If you're considering applying to PhD programs from undergrad, I've written a comprehensive guide to help you navigate the entire process from start to finish!
+
+_Below is an embedded preview, but for easier navigation and better formatting, visit the google doc directly [here](https://docs.google.com/document/d/1edbNoCX0frs4gl2jCYWNsBhVEcC049xTE-4f-bouJzw/edit?usp=sharing)._
+
+<iframe width=850 height=700 src="https://docs.google.com/document/d/e/2PACX-1vRP47iJaokpbkRh7oWVZct7hM071UAjd1co_cBe7-VuyrZoACd3waw4AMHJeI71ZfgPbBgZCpSvxuO7/pub?embedded=true"></iframe>
