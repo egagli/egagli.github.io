@@ -54,4 +54,6 @@ If you're considering applying to PhD programs from undergrad, I've written a co
 
 _Below is an embedded preview, but for easier navigation and better formatting, visit the google doc directly [here](https://docs.google.com/document/d/1edbNoCX0frs4gl2jCYWNsBhVEcC049xTE-4f-bouJzw/edit?usp=sharing)._
 
-<iframe width=850 height=700 src="https://docs.google.com/document/d/e/2PACX-1vRP47iJaokpbkRh7oWVZct7hM071UAjd1co_cBe7-VuyrZoACd3waw4AMHJeI71ZfgPbBgZCpSvxuO7/pub?embedded=true"></iframe>
+<div style="text-align:center;">
+<iframe width=80% height=600 src="https://docs.google.com/document/d/e/2PACX-1vRP47iJaokpbkRh7oWVZct7hM071UAjd1co_cBe7-VuyrZoACd3waw4AMHJeI71ZfgPbBgZCpSvxuO7/pub?embedded=true"></iframe>
+</div>
